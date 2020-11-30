@@ -1,0 +1,838 @@
+﻿u'sanfterer', u'solidarischst', u'brderlichsten', u'brderlichstem', u'gewinnbringendere', u'erfolgreicher', u'brderlichster', u'brderlichstes', u'gttlichere', u'sanfterem', u'betrchtlichste', u'entwirrt', u'sanftere', u'superschnellerer', u'superschnelleres', u'komforts', u'ausbauen', u'vorteilhaftesten', u'entwirre', u'vorteilhaftestem', u'greifbare',
+u'besondererem', u'besondereren', u'exquisiterer', u'untrennbar', u'wegweisendsten', u'legitimerer', u'legitimeres', u'stabiler', u'eintrglich', u'explosivem', u'lebensfhigst', u'explosiven', u'klaglos', u'beeindruckt', u'unberhrtestes', u'mustergltig', u'bescheidenst', u'menschlich', u'wohligst', u'explosives', u'explosiver', u'aufgebessert', u'friedens', u'eindrucksvoll', u'superster', u'superstes', u'warmherzigeren', u'berrundet', u'puppigstes', u'puppigster', u'puppigst
+u'abgedroschner', u'abgedroschenste', u'abgedroschenem', u'abgedroscheneres', u'abgedroschenst', u'abgedroschenerer', u'abgedroschener', u'abgedroschenes', u'abgedroschenerem', u'abgedroscheneren', u'abgedroschneren', u'abgedroschenen', u'abgedroschnerem', u'abgedroschneres', u'abgedroschnerer', u'abgedroschensten', u'abgedroschenere', u'abgedroschenstem', u'abgedroschenstes', u'abgedroschenster', u'abgedroschnere', u'abgedroschene', u'abgestanden', '', u'abgestandnerer', u'abgestandneres', u'abgestandenen', u'abgestandenem', u'abgestandenes', u'abgestandener', u'abgestandenstes', u'abgestandenere', u'abgestandenster', u'abgestandenstem', u'abgestandensten', u'abgestandenste', u'abgestandnere', u'abgestandene', u'abgestandeneren', u'abgestandenerem', u'abgestandenst',  u'besorgniserregendem', u'attackieret', u'grausigeren', u'grausigeres', u'grausigerer', u'besorgniserregender', u'besorgniserregendes', u'ermdungen', u'untragbareren', u'malosstes', u'malosster', u'folgewidrig', u'hasstest', u'unzureichendsten', u'hinflligeren', u'verwundeten', u'betruges', u'scheulichere', u'bescheuerteste', u'unwissendst', u'hinflligerem', u'planloseren', u'korruptem', u'planlosere', u'unanstndigstes', u'unanstndigster', u'unanstndigsten', u'unanstndigstem', u'gleichgltigst', u'zerrissenerem', u'planloserer', u'planloseres', u'krzet', u'unzurechnungsfhiges', u'unzumutbarste', u'bizarrerer', u'bizarreres', u'verschwenderischeren', u'kippten', u'denkfaul', u'kipptet', u'unterstelltet', u'verschwenderischeres', u'verderblichst', u'vernichtetest', u'bizarrerem', u'bizarreren', u'widersprchen', u'behmmertster', u'behmmertstes', u'wackelt', u'schockn', u'schubsest', u'rgerliche', u'wackeln', u'belanglosere', u'erwrgtest', u'leblosere', u'wackele', u'behmmertstem', u'behmmertsten', u'hochtrabenderem', u'unklugst', u'hochtrabenderen', u'giftigere', u'irrationaler', u'irrationales', u'grausamste', u'engstirnigerer', u'verwirrungen', u'schadhaftest', u'inkorrekteres', u'rechtswidrigste', u'irrationalem', u'irrationalen', u'haarigere', u'hochtrabenderes', u'grausame', u'grauenvollen', u'schwerwiegenderer', u'grauenvollem', u'schockt', u'anklage', u'verdorbenerem', u'verhhnest', u'engstirnigeres', u'unangemessenem', u'unangemessenen', u'verachtetet', u'unangemessener', u'unangemessenes', u'einfltigeren', u'anklagt', u'erbrmlichste', u'grauenvoller', u'grauenvolles', u'schwerwiegenderen', u'abstoenden', u'hinterlistigstem', u'abfhr', u'beseitig', u'frustrierteren', u'frustrierterem', u'besorgnissen', u'fiesesten', u'fiesestem', u'armseligste', u'einsamstem', u'einstellest', u'unseris', u'einsamsten', u'frivolst', u'einsamstes', u'einsamster', u'fiesestes', u'beunruhigst', u'grlichen', u'traumatischerem', u'frustrierterer', u'frustrierteres', u'hinterlistigster', u'hinterlistigstes', u'peinliches', u'frecheren', u'frecherem', u'beschuldigen', u'unwichtigeren', u'verherrlichung', u'wutschumendsten', u'beschuldiget', u'frecheres', u'frecherer', u'unbefugtest', u'unfreundlichem', u'enthaupttest', u'gruseligst', u'rgernises', u'zgert', u'schmerzerflltere', u'notstand', u'rauhest', u'zgern', u'zgere', u'beunruhigend', u'ldiertest', u'vereitele', u'vorurteile', u'ausschaltetet', u'krudesten', u'schonungsloseste', u'erzrnter', u'bedeutungslose', u'ordnungswidrige', u'blockade', u'vorurteils', u'krudester', u'erzrntem', u'erzrnten', u'ausgehungertere', u'umstrittenerem', u'fehltet', u'verherrlich', u'jammern', u'trgest', u'krnkelten', u'fremdartigen', u'fremdartigem', u'jammere', u'fremdartiger', u'fremdartiges', u'jammers', u'melodramatischst', u'krnkeltet', u'blindeste', u'trgheit', u'unsicherere', u'feindseligstes', u'verhhnte', u'leichtsinnig', u'schlafferen', u'gemangelt', u'ruppigeres', u'unwichtigerem', u'gnadenloseres', u'undurchsichtigste', u'verleumden', u'minderwertigkeit', u'verleumdet', u'wertlosest', u'dmlich', u'aussichtsloserem', u'vernichtet', u'aussichtsloseren', u'brchigere', u'unsachgemste', u'ungehorsamstem', u'ungehorsamsten', u'ungehorsamstes', u'ungehorsamster', u'ausgestorbnere', u'widersprchlichem', u'ausradierst', u'aussichtsloseres', u'aussichtsloserer', u'vernichten', u'widersprchlichen', u'tadelnswertster', u'tadelnswertstes', u'umstrittenerer', u'zweitklassigere', u'melancholie', u'tadelt', u'dmpfer', u'kmmerlichstes', u'kmmerlichster', u'brutal', u'verflschest', u'kmmerlichsten', u'kmmerlichstem', u'explodierte', u'deformationen', u'tadelnswertsten', u'grautest', u'tadelnswertstem', u'tyrannisch', u'ungebetner', u'unschne', u'gehssigere', u'entfhr', u'glanzlosst', u'klagst', u'unaufgeforderte', u'nrgeltet', u'verheerendstes', u'widerleget', u'aufgeregten', u'diffizileres', u'aufgeregtem', u'mittelmigstem', u'bellaunigeren', u'kostspieligstes', u'diffizilerer', u'unsittlichsten', u'entfhrtet', u'seltsamsten', u'mordete', u'unerbittlichste', u'kapitulieren', u'seltsamster'TIM ABRAMCZIK
+
+
+
+
+
+
+				Babylonische Sorgen
+				/Auszüge
+							
+				Studien zur generativen Ballade, Suchmaschinenanfragen in Balladenform
+				2018, Tim Abramczik 
+
+
+u'stilvollste', u'wunderbarere', u'groartigsten', u'groartigstem', u'wachstums', u'zukunftsweisenderer', u'unverhofftest', u'groartigstes', u'diskretest', u'ordnungsgemem', u'exotischeres', u'exotischerer', u'qualifiziertet', u'unangefochtene', u'strkeren', u'veredelst', u'angemessenheit', u'komfortables', u'beruhigung', u'bravourseste', u'exotischerem', u'exotischeren', u'komplettesten', u'investition', u'einkaufe', u'komplettestem', u'getrstet', u'nutzbringenderem', u'hochdruckgebiets', u'gemeinsames', u'ungezwungenen', u'logisches', u'ausgezeichnetere', u'hochdruckgebiete', u'einkauft', u'einkaufs', u'ungezwungener', u'logischen', u'empathischere', u'gemeinsamen', u'nutzbringenderes', u'komplettester', u'komplettestes', u'planmigerem', u'kulantere', u'toleranz', u'ausgewogenere', u'feschestes', u'qualifiziertem', u'gesundes', u'gesunder', u'bermenschlicherer', u'rhrigeren', u'rhrigerem', u'tolerant', u'rhrigeres', u'rhrigerer', u'serisest', u'bermenschlicherem', u'gesundem', u'klaglose', u'gesunden', u'festlichste', u'feschestem', u'feschesten', u'wohlgeordnetstem', u'spannende', u'durchdachtestem', u'durchdachtesten', u'ungebrochen', u'wohltuendste', u'markantestes', u'beauftragte', u'markantester', u'relevantere', u'weitgehendem', u'jubilum', u'durchdachtester', u'durchdachtestes', u'komfortablem', u'komfortablen', u'standhaftigkeit', u'vorsorglicheren', u'vorsorglicherem', u'behaglichsten', u'serise', u'auszeichnungen', u'behaglichster', u'beheizbarer', u'vorsorglicheres', u'vorsorglicherer', u'rechtfertigt', u'berlegtest', u'belastbaren', u'belastbarem', u'gravierendste', u'erreichen', u'hochwertigst', u'schnheit', u'zeitsparendst', u'charmante', u'vorsorgliches', u'rcksichtsvollste', u'belastbarer', u'belastbares', u'berdurchschnittlichst', u'kunstvollerer', u'lobtet', u'euphorischerer', u'euphorischeres', u'euphorischerem', u'geschenk', u'gediegner', u'unberhrtestem', u'rcksichtsvollere', u'lobten', u'eignest', u'floriert', u'topster', u'langlebige', u'exotischster', u'erhltlichere', u'floriere', u'verschner', u'bereitere', u'komfortabler', u'auszeichne', u'klarste', u'legitimeren', u'markantestem', u'besondererer', u'besondereres',
+u'kreativeren', u'aufmerksamster', u'aufmerksamstes', u'anpassungsfhig', u'lukrativst', u'prunkvollstem', u'prunkvollsten', u'absolut', u'unantastbarste', u'hinreichende', u'getreu', u'revanchierten', u'weltberhmteste', u'lobenswertere', u'verantwortungsvollere', u'verteidiget', u'verteidiger', u'meisterlichstes', u'bewhrte', u'aussichtsreiche', u'berlegnere', u'geruhsamst', u'phnomenale', u'verteidigen', u'zulssigem', u'kollegialste', u'umsorgt', u'sanfteres', u'sanfterer', u'solidarischst', u'brderlichsten', u'brderlichstem', u'gewinnbringendere', u'erfolgreicher', u'brderlichster', u'brderlichstes', u'gttlichere', u'sanfterem', u'betrchtlichste', u'entwirrt', u'sanftere', u'superschnellerer', u'superschnelleres', u'komforts', u'ausbauen'
+u'ungehorsameres', u'ungehorsamerer', u'ausrotttest', u'apokalyptische', u'leichtglubigstes', u'leichtglubigster', u'leichtglubigsten', u'leichtglubigstem', u'unlogische', u'zerstrtet', u'bellauniger', u'unverstndlichere', u'missglck', u'besorgtesten', u'besorgtestem', u'missbruche', u'niedertrchtigste', u'ungesndest', u'kontraproduktivere', u'ermord', u'schlitterbahn', u'frustration', u'untrstlichen', u'besorgtestes', u'besorgtester', u'defektes', u'bedeppert', u'unverbesserlichstes', u'unmglichsten', u'ausrottete', u'unverbesserlichster', u'unterirdischste', u'angestrengtere', u'verkleinerst', u'panische', u'unbotmigere', u'erbrechen', u'unmglichstes', u'unmglichster', u'flacheres', u'flacherer', u'zweitklassigeren', u'neutralisierten', u'ungleichstem', u'panischer', u'ungleichsten', u'unterwrfigen', u'unterwrfigem', u'unterwrfiger', u'unterwrfiges', u'schaurige', u'ungleichstes', u'ungleichster', u'problem', u'flacherem', u'neutralisiertet', u'flacheren', u'unmglicherer', u'unvollkommensten', u'unvollkommenstem', u'grbste', u'entziehen', u'blauugigerer', u'fatalstes', u'blauugigeren', u'blauugigerem', u'unvollkommenstes', u'unvollkommenster', u'kaputtest', u'distanziertere', u'brchigst', u'abhngigsten', u'abhngigstem', u'qualvollster', u'qualvollstes', u'qualvollsten', u'widernatrlicheren', u'widernatrlicherem', u'qualvollstem', u'abhngigstes', u'befremdlichste', u'hhnischeren', u'sprengungen', u'unbedachter', u'verabscheuungswrdigste', u'schwindligerer', u'leichtglubigem', u'volltrunkenen', u'hungersnte', u'volltrunkenem', u'kollabiere', u'anstigen', u'drnget', u'anstiges', u'anstiger', u'erschreckst', u'drngen', u'zurckgehen', u'tuscht', u'volltrunkener', u'kollabiert', u'erosionen', u'aufrhrt', u'notfllen', u'lasten', u'grbsten', u'trotteligem', u'rauhester', u'mrrischstes', u'trostloseren', u'rauhesten', u'trostloserer', u'rauhestem', u'unwirksamste', u'befremdlichere', u'grbstem', u'herausforderte', u'verdachten', u'turbulenter', u'verrgeren', u'zweckloserem', u'unkritischste', u'turbulentem', u'fehlermeldung', u'versptet', u'verdachtes', u'unrentable', u'besorgniserregendste', u'unstetigstes', u'unvollstndigere', u'zerschundenstes', u'unstetigster', u'halbfertigste', u'schubste', u'krnkte', u'unbequemsten', u'amateurhafteste', u'krankte', u'unschnst', u'zerstrten', u'unfreundlichste', u'rabiates', u'giftigster', u'giftigstes', u'giftigsten', u'ungezognerem', u'giftigstem', u'aufschrei', u'rckflle', u'beschftigungslosste', u'unzchtigerer', u'knapperem', u'finsterst', u'beschwerlicheres', u'krachest', u'belstigungen', u'bedrohtet', u'fluches', u'unglckliche'
+u'desolatester', u'dominierte', u'begrenztes', u'deformiertest', u'grotesk', u'begrenztet', u'ungenaueste', u'versagen', u'entfhren', u'leugnten', u'ttten', u'ungewolltsten', u'gangstern', u'gangsters', u'tttet', u'trgerisch', u'starre', u'vergeudtest', u'unsittlichere', u'unbeliebtest', u'zensiertet', u'leugntet', u'rcksichtslosere', u'entfhret', u'bittersten', u'umweltschdlichen', u'umweltschdlichem', u'bitterstem', u'vermindern', u'begriffsstutzigen', u'bellaunigstem', u'begriffsstutzigem', u'vermindere', u'mauestes', u'begriffsstutziger', u'ergebnislosesten', u'unzumutbares', u'schwchtest', u'tristerer', u'bitterster', u'bitterstes', u'tatenloses', u'tatenloser', u'falschere', u'mauesten', u'einschchter', u'flchtend', u'gebrechliches', u'bedrngst', u'beschrnkt', u'beschrnkten', u'zweitklassigste', u'beschrnktem', u'beschrnkter', u'beschrnktes', u'unmenschlichstes', u'ergebnislosestes', u'beschrnktet', u'verirren', u'gebrechlichen', u'beschrnke', u'gebrechlichem', u'ungehobeltstes', u'gammelt', u'unlogischstes', u'ungewolltstem', u'ausgestorbenste', u'gammele', u'beklagenswerte', u'volltrunkenere', u'aufrhre', u'gammeln', u'abgrndigst', u'ltere', u'ungewolltste', u'undiplomatischem', u'abstiegen', u'verletzlichen', u'undiplomatischen', u'deinstalliertste', u'schlechtest', u'undiplomatisches', u'undiplomatischer', u'schlampereien', u'verchtlich', u'ungehobeltstem', u'kaltherzig', u'fremdartigere', u'prekreres', u'boshaftester', u'boshaftestes', u'unfreiwilligeres', u'unfreiwilligerer', u'ungehobeltsten', u'grausamen', u'illegalen', u'volltrunkenes', u'boshaftesten', u'ungerechtfertigtstes', u'boshaftestem', u'notfalls', u'ausrotte', u'genervtes', u'genervter', u'gebrechlichstes', u'gebrechlichster', u'ungehorsamste', u'verchtlichere', u'rechtswidrigster', u'zersetzen', u'zwecklosester', u'fehlkufe', u'notfalles', u'genervtem', u'gebrechlichsten', u'schuldhaftester', u'schuldhaftestes', u'entfremdten', u'banalstes', u'banalster', u'unverstndlichste', u'banalsten', u'banalstem', u'brutalst', u'aussterben', u'todesstrafen', u'entsetzlich', u'teuerste', u'wutentbranntes', u'untragbareres', u'schamlosestem', u'schamlosesten', u'schamlosester', u'schamlosestes',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Es folgen Studien zur oulipotischen Ballade.
+Die Idee geht zurück auf folgende Contrainte von OuLiPo:
+
+"Alle festen Formen sind per Definition oulipotisch. Oulipotischer als das Sonett geht es kaum. Wir empfehlen daher auch die Ballade, das königliche Lied, das Rondeau, das Pantoum usw. "
+-Gruppe OuLiPo 
+https://oulipo.net/fr/contraintes/formes-fixes
+
+Wie es scheint wurde diese Contrainte vergessen, übersehen, oder noch nicht umgesetzt. Hier wird der Versuch unternommen das nachzuholen.
+
+
+Das Textmaterial besteht aus 2457322 zufälligen, automatisch vervollständigten Suchanfragen. Diese wurden im Zeitraum von Mai bis Oktober -Stück für Stück- und zufällig durch einzelanfragen von Bots  aus den Suchmaschinen Google (80 %), Bing(10%), DuckDuckGo (10%) gesammelt.
+
+Das gesammelte Textmaterial wird hier durch String und Datenbank Operationen der Programmiersprache Python und einiger gängiger OuliPo Contraintes verarbeitet. 
+In diesem Dokuement findet sich eine kleine Auswahl möglicher Kombinationen.
+
+
+Der Titel “Babylonische Sorgen” ist geklaut.
+
+
+Quellcode: https://github.com/instabilotheque/babylonische-sorgen	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PING jesuisautocomplete.org (193.141.3.72) 56(84) bytes of data.
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=1 ttl=240 time=42.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=2 ttl=240 time=28.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=3 ttl=240 time=21.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=4 ttl=240 time=43.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=5 ttl=240 time=28.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=6 ttl=240 time=29.8 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=7 ttl=240 time=18.0 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=8 ttl=240 time=30.2 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=9 ttl=240 time=35.1 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=10 ttl=240 time=30.5 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=11 ttl=240 time=33.8 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=12 ttl=240 time=19.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=13 ttl=240 time=23.7 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=14 ttl=240 time=29.0 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=15 ttl=240 time=33.8 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=16 ttl=240 time=31.2 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=17 ttl=240 time=25.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=18 ttl=240 time=37.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=19 ttl=240 time=32.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=20 ttl=240 time=24.2 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=21 ttl=240 time=21.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=22 ttl=240 time=20.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=23 ttl=240 time=53.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=24 ttl=240 time=63.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=25 ttl=240 time=31.7 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=26 ttl=240 time=21.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=27 ttl=240 time=27.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=28 ttl=240 time=24.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=29 ttl=240 time=29.1 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=30 ttl=240 time=24.1 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=31 ttl=240 time=32.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=32 ttl=240 time=17.0 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=33 ttl=240 time=18.7 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=34 ttl=240 time=51.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=35 ttl=240 time=23.2 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=36 ttl=240 time=18.5 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=37 ttl=240 time=35.7 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=38 ttl=240 time=29.5 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=39 ttl=240 time=31.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=40 ttl=240 time=26.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=41 ttl=240 time=24.8 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=42 ttl=240 time=18.5 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=43 ttl=240 time=43.4 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=44 ttl=240 time=21.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=45 ttl=240 time=31.6 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=46 ttl=240 time=25.1 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=47 ttl=240 time=19.3 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=48 ttl=240 time=26.0 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=49 ttl=240 time=44.9 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=50 ttl=240 time=136 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=51 ttl=240 time=270 ms
+64 bytes from a08.rzone.de (193.141.3.72): icmp_seq=52 ttl=240 time=35.4 ms
+logout
+Connection to jesuisautocomplete.org closed
+
+
+
+
+
+
+
+
+
+Kleine Ballade
+
+1
+hoch aufgebaute schleimhaut
+im querformat drucken
+mein lightroom ohne cloud
+acht buchstaben unruhig zucken
+
+und dann kam die feuernation
+der tod von ludwig dem xiv
+ich kann nicht singen und gitarre spielen
+und ich schließe die augen um an etwas zu glauben
+
+ihr freunde gottes allzugleich
+ich arbeite heute von zuhause aus
+und raus bist du tag
+der unterschied zwischen blass und bleich
+
+
+
+2
+hoch fliegen heißt fallen in die tiefe
+im angesicht uralter freinde beherzt handeln
+falsch frankierte briefe
+und wohl denen die da wandeln
+
+und wie die alten sungen so zwitschern auch die jungen
+ich will dich in mir haben sprüche
+und sie sprachen in fremden zungen
+minimalistisch in der küche
+
+ihr lieben sterne kommt zu mir
+ich laufe nehme aber nicht ab
+die sonne stirbt wie ein tier
+bauchschmerzen kopfschmerzen schlapp
+
+
+
+3
+hochbegabt und früher eingeschult 
+im gestreiften pyjama figurenkonstellationen
+toy verspielt verspult
+einfluss enzymatischer reaktionen
+
+und wenn es kein morgen gibt
+ich hoffe damit gedient zu haben
+der crash ist die lösung
+und jetzt sehen mich alle
+
+ihr wollt kapitalismus mit herz
+ich bin wieder billig
+und vorne hilft der liebe gott
+an und für sich
+
+
+
+4
+hochwertige geschenke für frauen
+im wiener burgtheater unplugged
+evangelische kirche homosexuelle trauen
+und die welt da draussen dreht sich weiter
+
+und rohan wird antworten
+der chaot beherrscht das chaos
+gefurzt auf polnisch
+und hinterher nehm ich sie in die arme
+
+ihr wollt mich in handschellen sehen
+ich lasse mein baby schreien
+und gierig drückt die wirtin die zaubertaste
+one of us is lying
+
+
+
+5
+hoch motiviert engagiert
+im ännchen oberpleis
+die modernisierung meiner mutter
+und plötzlich ist es liebe
+
+und hinein mit bedächtigem schritt
+der ursprung der welt
+ich lasse dich nicht fallen
+und donnernd sprengen die wogen
+
+ihr wollt arbeit ich will schlafen
+ich bin kinderfeindlich
+und immer wieder sind es dieselben lieder
+an dieser stelle bin ich sehr interessiert
+
+
+
+6
+hoch oder weit hervorstehen
+im kino gewesen geweint
+video um 90 grad drehen
+feuer ist unser feind
+
+und letztlich sind wir dem universum egal
+der sound ist gefährlich
+den kelch nahm er nach dem mahl
+reinigung versiffter teppich
+
+ihr urteil hart aber fair
+ich bin unlustig geworden
+ich will dein freund sein lieber eisbär
+warum menschen morden
+
+Sortierte Kleine Balladen
+
+
+
+
+1
+ aaabcceeefghhhhilmosttuuu
+  acdeefikmmnoqrrrtuu
+   cdeeghhiillmmnnoooortu
+     ddeeeeeiijlnnrrtttttuwwz
+
+
+    aaadddeeefiikmnnnnnortuu
+     ddddeegiilmnoortuvvwx
+      aaccdeeeegghhiiiiiklnnnnnnnprrssttu
+         aaaabccddeeeeeegghhiiillmnnnnsstuuuuuwz
+
+
+   acdeeeefgghhiilllnorrsttuuz
+     aaabceeeeehhhiinorssttuuuuvz
+    aabddginrssttuuu
+     abbcccdddeeeeehhhiiillnnnrrsssstuuwz
+
+
+
+
+2
+bceeefhhiikmmnnopstttu
+    aadeeehilmmnnorrrssstt
+     aaacdddeeeefhiiiimnnortz
+        aaccddddeeeeeeffghhiiiiimnnnnnnrssssttttuuw
+
+adeeiimmnorrssuww
+    aabccdddeehkllnnooorstuvw
+    abccddeeehhhiiiillnrww
+       abdddddeeeeeeeeiiiilmmnnnnnprrrssssuuw
+
+acddeeeeeghhhiiiillnnrrsz
+     ccdeeghiilmmnorrrssuwy
+       aaaddeeeefghiiinnnnnoorstttuuxz
+    aacdeeeeeeeghiilllnnnnrssssttz
+
+
+
+
+
+
+
+
+
+
+Je Suis Autocomplete / Randomized
+
+
+1
+horcht nur der alte klopft draußen ans tor
+was geschieht wenn sich die freien elektronen in eine richtung bewegen
+hoert man meine stimme im chor
+
+wie gut kannst du farben sehen
+und wo ist die handlung angesiedelt
+immer wieder aufstehen
+
+kaum ist die nabelschnur ab stehen wir alle auf dem schlauch
+ergriffen und dann geworfen geschoben gezogen oder gerollt
+dieses kribbeln im bauch
+
+mir hat es nicht gereicht nachzulesen wie diese welt war
+hund zittert und legt sich nicht hin
+heut weht der wind durch mein haar
+
+2
+warum bin ich nicht reich
+was man verspricht das sollst du rein genießen
+wie mache ich mir einen teich
+
+schwitze unter der rechten achsel mehr als links
+schauen verstorbene auf uns herab
+ab wie viel jahren energy drinks 
+
+wie wird zwischenzeit geschrieben
+warum ignorieren menschen andere menschen
+zweites kind wie das erste lieben
+
+es irrt der mensch solang er strebt
+jungfrau und jungfrau
+sanft lautlos herangeschwebt
+
+3
+zeichnen ohne den stift abzusetzen
+nett kann ich auch bringt aber nix
+umgangssprachlich brocken fetzen
+
+reflektiert der mond das sonnenlicht
+erhalten reichsbürger sozialleistungen
+movie2k wahrheit oder pflicht
+
+zur dialektik von moderne und postmoderne
+sexualität menschen mit behinderung
+schneefelder blinken leuchten aus der ferne
+
+bilder bruststraffung t schnitt
+ist dein gehirn stark genug
+und die sonne machte den weiten ritt
+
+Erlkönig - Kuckucksei 
+
+
+1
+wer reitet so spät durch nacht und wind
+es ist der vater meiner besten freundin
+er hat depressionen und meldet sich nicht
+er fasst sich immer ans ohr
+
+mein sohn der amokschütze
+siehst du brust oder rücken
+erlkönig interpretation
+mein sohn hat geburtstag was schenken
+
+du liebe oder du liebe ei du liebe liebe zeit	
+manchen männern hilft nur voodoo trailer deutsch
+gar nelen bedenkenlos kaufen
+meine mutter sagt ich bin dumm
+
+mein vater mein vater coming home	
+not found	
+sei ruhig französisch
+not found
+
+willst du wissen wer der babo ist
+meine tochter ist hässlich
+meine tochter einweisen lassen
+und wiegen im kindergarten
+
+mein vater hat einen marihuanabaum
+not found
+mein sohn kifft
+not found
+
+ich liebe dich ich will zu dir
+not found
+mein vater fasst mich an
+erlkönig analyse realschule
+
+den Vater bestrafen aber wie
+er hält sein versprechen nicht
+erreichter abschluss /bezeichnung der Prüfung
+in seinen armen fühl ich mich so wohl
+
+
+
+
+
+
+
+
+
+
+
+2
+wer kann hygienebeauftragter werden
+es kommt wie es kommt
+er ruft die menschen an die götter
+er arbeitet zuverlässig und gewissenhaft
+
+mein vater ist verliebt in mich
+siehst du brust oder rücken
+den wir gemacht haben
+mein wohnkult
+
+du bist ein geschenk
+gar nicht vorgestellt
+manche menschen wollen nicht verstehen
+meine erfunden frau
+
+mein arzt auf arte
+was geht fanta 4 original
+sei wachsam holzauge
+ein herz und eine krone
+
+Not Found
+meine ohren sind verschwunden
+meine quelle kundenkonto
+und am dritten tag schuf gott das remington
+
+und in der ferne hörte man leise sein altes fahrrad verrosten
+mein pflegezentrum hamburg
+Not Found
+den ackerboden bearbeiten
+
+ich lass los
+und donnernd sprengen die wogen
+mein herz in zwei welten
+Not Found
+
+den mutigen gehört die welt
+er nimmt kein blatt vor den mund
+Not Found
+in wirklichkeit wird viel mehr gelogen
+
+
+
+
+
+
+
+
+
+
+
+
+Sortierter Erlkönig
+
+
+bbcceeeehhhilrrrssssttw
+adddeeeeeeegghhhiiikkklnnnooorsttttu
+cceeefghiiklnrrrsstuuz??
+aadeeefiikkmmnnorrtttuw
+
+
+aceeeeeghiilmmmnnrrsttttuv??
+adeeghissssttttuuu
+aacdeeeggghilnnnnstz
+aabcceeeehhiillmnnnrrstu
+
+
+aabcccddeeeeeeghhhhhhiiilmnnnrrssttuuu
+aceeghikknnorrrrttu
+aabcccdeeeeeeeeeeefhhhhiilllmmnnnnnnnnnnorrsstuww
+bdeeeeiimnoostuuvy
+
+
+abcddeeeehiillmnnnnstu
+0128aeghijmnrstuuw
+acdeeghhiiorrssst
+abbcddeeeehiiikllnnrstv
+
+aacdeeeggghilnnnnstz
+abceeeehiiilmnnpss
+aabcddeeeeeeeeeeeghiiiiilllmmnnnnnrrrrssttuww
+bddeeegiiiilmmnnnorrrstuw
+
+
+aaceeefghiimmnrrttuv
+adeeghissssttttuuu
+aaeeeiilllmmnnnnnrsssuvw
+abceeefghhhiiikmnnstttu
+
+
+aacccddeeeeehhhiiiiknnnnoorssttttuvxx
+ccdefgghhiilllnnosu
+ceeeefhhiiimnnrrrrssttuu
+Not Found
+
+
+bdeeeeegiilnnnnott
+abccdeeeehhhiiklmnoprrrsttuuzz??
+Not Found
+aacdeeehiiknnnnrrrssttw
+None
+
+
+
+
+Weil
+
+weil nicht sein kann was nicht sein darf
+weil liebe durch den magen geht
+weil quero aprender alemao
+weil heute dein geburtstag ist
+
+weil von allen frauen die ich kenne keine wie du lachen konnte
+weil liebe nie zerbricht
+weil man den vermisst durch den man die liebe kennt
+weil gotshal frankfurt
+
+weil mein ruf kaputt geht ned deiner
+weil ich layken liebe
+weil es dich gibt
+weil zwei singulare kein plural sind
+
+weil der stadt wetter
+weil es lieb ist 2raumwohnung
+weil colmarerstrasse 
+weil verkaufsoffener sonntag
+
+weil langeweile langsam langweilig wird
+weil obwohl trotzdem deshalb
+weil jesus bald geburtstag hat
+weil du die liebe meines lebens bist
+
+weil wir unheilbar sind
+weil brechertechnik gmbh
+weil xinput1_3.dll nicht gefunden wurde
+weil reine haut reinhaut
+
+weil jesus lebt lied
+weil heute dein geburtstag ist noten gitarre
+weil heute dein geburtstag ist chords
+weil fasnachtsumzug 2018
+
+weil nichts bleibt wie es war
+weil mein ruf kaputt geht
+weil und huber ludwigsburg
+weil am rhein restaurant
+
+weil man dich lieben muss
+weil jesus lebt text
+weil nicht dein ruf kaputt geht sondern meiner
+weil eine xmlrootelement annotation fehlt
+
+weil for origins mega bright
+weil am rhein rathaus
+weil wach bleiben uns anzieht
+weil nicht sein kann
+
+
+
+Andere Wörter
+
+angstfrei anderes wort
+organisation anderes wort
+beschwingt ein anderes wort
+
+zimperlich anderes wort
+solidarisch anderes wort
+großartig anderes wort
+
+spitzfindig anderes wort
+hochtrabend anderes wort
+kompromisslos anderes wort
+
+phlegmatisch anderes wort
+redegewandt anderes wort
+machtlos anderes wort
+
+parteiisch anderes wort
+ausgeglichen anderes wort
+individuell anderes wort
+
+barbarisch anderes wort
+dreist vorlaut anderes wort
+verkopft anderes wort
+
+durchtrieben anderes wort
+unfreundlich anderes wort
+rebellisch anderes wort
+
+verbittert anderes wort
+wiederfinden anderes wort
+impulsiv anderes wort
+
+habgierig anderes wort
+gefunden anderes wort
+erfinderisch anderes wort
+
+bedrohlich anderes wort
+perfektionistisch anderes wort
+verschlossen anderes wort
+
+kommunikativ anderes wort
+vorbildlich anderes wort
+tugendhaft anderes wort
+
+unbekannt anderes wort
+menschlich anderes wort
+flatterhaft anderes wort
+
+misstrauisch anderes wort
+unnahbar anderes wort
+fordernd anderes wort
+
+Er will
+
+er will unabhängig sein
+er will rummachen aber keine beziehung
+er will immer noch kein kind
+er will nur noch alleine sein
+er will trennung nicht akzeptieren
+er will einen thermomix
+er will keine beziehung
+er will auf einmal doch eine beziehung
+er will zusammenziehen
+er will mir mein kind wegnehmen
+er will unterwäsche bilder
+er will von mir nichts mehr wissen
+er will mir in den mund
+er will nicht ausziehen
+er will mir geld schenken
+er will nicht küssen
+er will immer nur kuscheln
+er will freundschaft plus
+er will das ich bei ihm übernachte
+er will offene beziehung ich nicht
+er will nur noch seine ruhe
+er will sich nur spontan treffen
+er will geschlagen werden
+er will nur noch was mit freunden machen
+er will nicht heiraten
+er will partout nicht
+er will hören das ich ihn liebe
+er will wissen was ich von ihm will
+er will viel kuscheln
+er will noch nicht zusammenziehen
+er will kaum noch mit mir schlafen
+er will noch eine chance
+er will noch kein kind mit mir
+er will mir dabei zusehen
+er will jeden tag telefonieren
+er will unbedingt ein foto von mir
+er will mich nicht sehen
+er will hochzeit absagen
+er will offene beziehung
+er will zu mir zurück
+er will ohne mich in den urlaub
+er will heiraten ich nicht
+er will gütertrennung
+er will haus alleine kaufen
+er will mir nicht wehtuen
+er will trennung nicht wahrhaben
+Sie will
+
+sie will nur noch freundschaft
+sie will sich mit mir treffen
+sie will trennung nicht akzeptieren
+sie will einen italiener
+sie will ja nach sevilla
+sie will mir keine falschen hoffnungen machen
+sie will mich ihren eltern vorstellen
+sie will doch nur spielen
+sie will film schauen
+sie will fliegen
+sie will nur freundschaft
+sie will jetzt noch keine beziehung
+sie will ihren ex zurück
+sie will wissen wie der hase läuft
+sie will räumliche trennung
+sie will noch nicht mit mir schlafen
+sie will schwanger werden
+sie will wissen wo ich bin nachts unterwegs
+sie will noch keine neue beziehung
+sie will geschlagen werden
+sie will yung hurn
+sie will mich kaum noch sehen
+sie will ruhe vor mir
+sie will immer wissen was ich mache
+sie will eine beziehung
+sie will bei mir übernachten
+sie will sich nicht binden
+sie will immer kuscheln
+sie will zusammenziehen
+sie will was mit mir unternehmen
+sie will heiraten
+sie will mir ihre nummer nicht geben
+sie will plötzlich keinen kontakt mehr
+sie will jeden tag mit mir schlafen
+sie will sich zeit lassen
+sie will raf camora
+sie will treffen treffen verschieben
+sie will wissen wo ich bin
+sie will unbedingt freundschaft
+sie will kinder
+sie will abstand und meldet sich nicht
+sie will mich hat aber angst
+sie will trennung auf zeit
+sie will fame sie will alles was ich hab
+sie will immer oben sein
+sie will offensive vom mann
+sie will sich nicht treffen
+sie will beziehung geheim halten
+sie will bürgermeister von winsen werden
+sie will lieber einen mann der zu ihr sagt
+sie will unsere beziehung geheim halten
+sie will mir nicht sagen was los ist
+Helden reisen 
+
+
+1
+mein kater verwildert
+dadurch bedingt komma
+ehe und familie freiburg
+deswegen neue rechtschreibung
+
+
+mein herz brennt actress
+deswegen en francais
+dadurch bedingt duden
+deswegen englisch
+
+
+hund plötzlich verfressen
+schlechter zeitpunkt um krank zu werden 94
+schlechte maschinenelemente
+entweder jetzt oder nie
+
+
+endlich chef was nun
+endlich kommt der weihnachtsmann
+warum bin ich so fröhlich
+endlich yoshi befreit
+
+
+
+2
+ich habe angst mit menschen zu reden
+damit verfolgten die ägypter die israeliten
+oldenburg rettet leben
+damit kann ich mich arrangieren
+
+
+mein herz brennt wenn ich dich seh 
+dadurch dass spanisch
+dadurch mit 5 buchstaben
+dadurch am anfang des satzes
+
+
+sie hat jetzt einen anderen
+krank unpässlich franz
+grob bearbeitetes quadermauerwerk
+jetzt tickets sichern
+
+
+endlich mehr verdienen
+endlich chef was nun
+endlich  wochenende
+endlich auf englisch
+
+
+3
+ich habe nicht umsonst geweint michelle
+wie teuer ist overwatch
+haus geerbt checkliste
+halsschmerzen aufeinmal 
+
+
+ich glaube nicht von reinhard mey
+aggressiv psychisch krank
+wird motoröl schlecht
+kann aufeinmal nicht mehr schlafen
+
+
+ich hab doch nur aus lauter liebe zu dir
+3 jähriger schlecht gelaunt
+krank zum vorstellungsgespräch
+er ruft plötzlich nicht mehr an
+
+
+endlich jemanden kennenlernt
+endlich wunschgewicht
+endlich sehe ich das licht
+
+
+4
+ich will dich vermissen chords
+krank fühlen nach sport
+besetzung verliebt in berlin
+auf einmal kontakt abgebrochen
+
+
+ich bin star lasst mich wieder rein
+fast jeden monat krank
+warum sind gpus so teuer
+plˆtzlich aufbrausend
+
+
+ich lasse mir zuviel gefallen
+schlecht gelaunt auf englisch
+krank während urlaub
+er ruft plötzlich wieder an
+
+
+
+endlich hoher potentialtopf
+endlich erzeugte gruppe
+endlich nichtraucher leseprobe
+endlich gut im bett 
+
+
+
+
